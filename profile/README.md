@@ -12,6 +12,14 @@
 目标是打造国内首个 **“饰品数据聚合 + 箱子质押收益 + 套利分析”** 的一体化生态，  
 为玩家、套利者与投资者提供数据驱动的智能工具与收益通道。
 
+## 产品列表
+
+- 微信服务号 
+<img width="500" height="500" alt="wechat" src="https://github.com/user-attachments/assets/068fe61e-0db5-401c-be00-40f2c9ea3040" />
+
+- [Telegram 小程序](https://t.me/itemshub_bot/app)
+- [官网](https://itemshub.cn/)
+- [数据面板](https://dashboard.itemshub.cn/)
 ---
 
 ## 🚀 核心功能
